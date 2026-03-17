@@ -35,3 +35,8 @@ O arquivo original serviu como base funcional para o modelo, enquanto as modific
 2. Instale as bibliotecas necessárias:
    ```bash
    pip install streamlit tensorflow pandas pillow numpystema no ambiente operacional.
+
+
+## Inicie a Aplicação pelo Terminal
+
+streamlit run app.py
